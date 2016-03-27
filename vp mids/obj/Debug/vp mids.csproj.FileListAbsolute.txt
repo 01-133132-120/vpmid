@@ -1,0 +1,6 @@
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\bin\Debug\vp mids.exe.config
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\bin\Debug\vp mids.exe
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\bin\Debug\vp mids.pdb
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\obj\Debug\vp mids.csprojResolveAssemblyReference.cache
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\obj\Debug\vp mids.exe
+c:\users\mshome\documents\visual studio 2013\Projects\vp mids\vp mids\obj\Debug\vp mids.pdb
